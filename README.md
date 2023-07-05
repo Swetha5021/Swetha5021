@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swetha S</h1>
+<h1 align="center">Hi ,<img alt="Hi" width="40" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif">     I'm Swetha S</h1>
 <h3 align="center">A passionate Full-Stack Developer and ML Enthusiast from India</h3>
 <h1>
      
