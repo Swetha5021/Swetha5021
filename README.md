@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-S-PrLXVCfaA9kzaGjIAt1VWTjJcCKuX/view?usp=sharing](https://drive.google.com/file/d/1-S-PrLXVCfaA9kzaGjIAt1VWTjJcCKuX/view?usp=sharing)
 
-- </> Want to look at my SkillRack profile ?  https://www.skillrack.com/faces/resume.xhtml?id=355287&key=84ec574db4a23b4bdb04ed6c60f5183f241b3d65
+- </> Link to my SkillRack profile :  https://www.skillrack.com/faces/resume.xhtml?id=355287&key=84ec574db4a23b4bdb04ed6c60f5183f241b3d65
 
 
 <h3 align="left">Connect with me:</h3>
