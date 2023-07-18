@@ -21,7 +21,6 @@
 
 - </> Link to my SkillRack profile :  https://www.skillrack.com/faces/resume.xhtml?id=355287&key=84ec574db4a23b4bdb04ed6c60f5183f241b3d65
 
-
 <h3 align="left">Connect with me:</h3>
 <h1>
 
