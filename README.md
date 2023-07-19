@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Swetha5021](https://github.com/Swetha5021)
+- 👨‍💻 My portfolio website is available at www.swetha-sivasankararaj.com
 
 - 💬 Ask me about **Front-end development**
 
