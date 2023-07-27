@@ -11,8 +11,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 My portfolio website is available at
-        www.swetha-sivasankararaj.com
+- 👨‍💻 My portfolio - www.swetha-sivasankararaj.com
 
 - 💬 Ask me about **Front-end development**
 
