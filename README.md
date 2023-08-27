@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full-Stack and OpenCV projects**
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, ExpressJs, MongoDB**
+- 🌱 I’m currently learning **ReactJs**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
