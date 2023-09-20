@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **swethasivasankararaj.05@gmail.com**
 
-- 📄 Know about my experiences :https://drive.google.com/file/d/1C0-nMWHjpUZVcQVFC71tu9O9OgjRI3lh/view?usp=drive_link
+- 📄 Know about my experiences : https://drive.google.com/file/d/1AVr0PEwfUCTsj37esFGlo9iLM3kIBQlY/view?usp=drive_link
   
 - </> Link to my SkillRack profile :  https://www.skillrack.com/faces/resume.xhtml?id=355287&key=84ec574db4a23b4bdb04ed6c60f5183f241b3d65
 
