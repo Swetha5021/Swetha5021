@@ -45,4 +45,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swetha5021&show_icons=true&locale=en" alt="swetha5021" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=swetha5021&" alt="swetha5021" /></p>
-<img align="left" alt="Coding" width="200" src="https://media1.giphy.com/media/XcXx0WlV7L9cMKhA6G/200w.gif?cid=82a1493blskxtrupimpu3aj3d1i1xsb7wnpuooa3flj6nlen&ep=v1_gifs_related&rid=200w.gif&ct=s">
