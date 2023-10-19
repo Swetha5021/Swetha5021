@@ -1,4 +1,4 @@
-<h1 align="center"><img alt="Hi" width="90" src="https://media.tenor.com/kvXMS__Bkd8AAAAC/hello-hi.gif">I'm Swetha </h1>
+<h1 align="center"><img alt="Hi" width="90" src="https://media.tenor.com/kvXMS__Bkd8AAAAC/hello-hi.gif">Swetha Sivasankararaj</h1>
 <h3 align="center">A passionate Full-Stack Developer and ML Enthusiast from India</h3>
 
 <br>
