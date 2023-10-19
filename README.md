@@ -21,7 +21,7 @@
 - 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1HWKigGgG6Z89BWqGg5N3ITaJuO49p6tc/view?usp=sharing" target="blank">Resume</a>
   
 - </> SkillRack :  <a href="https://www.skillrack.com/faces/resume.xhtml?id=355287&key=84ec574db4a23b4bdb04ed6c60f5183f241b3d65" target="blank">Profile</a>
-<br>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -31,7 +31,7 @@
 <a href="https://www.hackerrank.com/swet21121_ei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swet21121_ei" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swetha_sivasankararaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swetha_sivasankararaj" height="30" width="40" /></a>
 </p>
-<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -90,7 +90,6 @@
      <img src="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/>
 </h1>-->
 
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetha5021&label=Profile%20views&color=0e75b6&style=flat" alt="swetha5021" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetha5021&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="swetha5021" /></p>
 
