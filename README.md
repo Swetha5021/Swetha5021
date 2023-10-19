@@ -56,6 +56,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetha5021&label=Profile%20views&color=0e75b6&style=flat" alt="swetha5021" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetha5021&show_icons=true&locale=en&layout=compact" alt="swetha5021" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swetha5021&show_icons=true&locale=en" alt="swetha5021" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swetha5021&show_icons=true&locale=en" alt="swetha5021" /></p>-->
+![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swetha5021&show_icons=true&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=swetha5021&" alt="swetha5021" /></p>
+<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=swetha5021&" alt="swetha5021" /></p>-->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Swetha5021&theme=blue-green" alt="GitHub Streak" /></a>
