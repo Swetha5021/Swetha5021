@@ -1,6 +1,8 @@
-<h1 align="center"><img alt="Hi" width="90" src="https://media.tenor.com/kvXMS__Bkd8AAAAC/hello-hi.gif">     I'm Swetha </h1>
+<h1 align="center"><img alt="Hi" width="90" src="https://media.tenor.com/kvXMS__Bkd8AAAAC/hello-hi.gif">I'm Swetha </h1>
 <h3 align="center">A passionate Full-Stack Developer and ML Enthusiast from India</h3>
+
 <br>
+
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently working on **Full-Stack and OpenCV projects**
