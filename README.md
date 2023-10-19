@@ -1,4 +1,5 @@
 <h1 align="center"><img alt="Hi" width="90" src="https://media.tenor.com/kvXMS__Bkd8AAAAC/hello-hi.gif"/>Swetha Sivasankararaj</h1>
+<img src="https://media.licdn.com/dms/image/D5616AQHIOXb_kJtOSA/profile-displaybackgroundimage-shrink_350_1400/0/1690130609161?e=1703116800&v=beta&t=YrHRrXHjY1cEv5YdzC7vTVVgs2Duvt1Mz8vRqlaD620" />
 <h3 align="center">An aspiring Software Developer/Full-Stack Developer and ML Enthusiast</h3>
 
 <br>
