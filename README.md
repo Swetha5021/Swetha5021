@@ -99,6 +99,6 @@
 
 <!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=swetha5021&" alt="swetha5021" /></p>-->
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Swetha5021&theme=blue-green" alt="GitHub Streak" /></a>
+<!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Swetha5021&theme=blue-green" alt="GitHub Streak" /></a>-->
 
 
