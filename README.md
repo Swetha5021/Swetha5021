@@ -35,40 +35,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=git,c,java,py,cpp,html,css,js,bootstrap,react,next,tailwind" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,cpp" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,tailwind" />
+    <img src="https://skillicons.dev/icons?i=spring,django,php,mysql,mongo,firebase,postman,vscode,idea,atom,eclipse,github" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,django,php,mysql,mongo,firebase,postman" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,atom,eclipse" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
 <!---<h1>
      <img src="https://camo.githubusercontent.com/3e1012ffd12fb3c5a64eb49efb221ba71e9c84bb12f64b2a230351ae5a831da3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"/>
     <img src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"/>
@@ -94,6 +72,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetha5021&label=Profile%20views&color=0e75b6&style=flat" alt="swetha5021" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetha5021&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="swetha5021" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swetha5021&show_icons=true&locale=en&theme=blue-green" alt="swetha5021" /></p>
+
+[![Swetha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swetha5021&bg_color=000000&title_color=538cc6&line=00cc00&point=538cc6&theme=github-compact)](https://github.com/Swetha5021/github-readme-activity-graph)
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swetha5021&show_icons=true&locale=en&theme=blue-green" alt="swetha5021" /></p>-->
 <!--![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swetha5021&show_icons=true&theme=blue-green)-->
