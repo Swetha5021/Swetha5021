@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Full-Stack and OpenCV projects**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs and DSA**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
