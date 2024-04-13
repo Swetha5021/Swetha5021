@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Front-end development**
 
-- 📫 How to reach me **swethasivasankararaj.05@gmail.com**
+- 📫 How to reach me **swet21121.ei@rmkec.ac.in**
 
 <!-- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1HWKigGgG6Z89BWqGg5N3ITaJuO49p6tc/view?usp=sharing" target="blank">Resume</a>-->
   
