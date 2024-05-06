@@ -28,7 +28,7 @@
 
 <p align="left">
 <!-- <a href="https://codepen.io/swetha-s-the-sasster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="swetha-s-the-sasster" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/swetha-sivasankararaj-b8a115263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetha-sivasankararaj-b8a115263" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swetha-sivasankararaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetha-sivasankararaj-b8a115263" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/swetha_5021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swetha_5021" height="30" width="40" /></a> -->
 <!--<a href="https://www.hackerrank.com/swet21121_ei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swet21121_ei" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swetha_sivasankararaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swetha_sivasankararaj" height="30" width="40" /></a> -->
