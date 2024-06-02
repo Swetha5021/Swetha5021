@@ -2,7 +2,6 @@
  
 <img src="https://i.postimg.cc/SKG1vz8M/Beige-Black-Geometric-Technology-Linked-In-Banner.png"/>
 <h3 align="center">Aspiring Software Developer</h3>
-
 <br>  
  
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
