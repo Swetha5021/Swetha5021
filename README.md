@@ -1,4 +1,4 @@
-<h1 align="center"><a href="http://www.swetha-sivasankararaj.com/">Swetha Sivasankararaj</a></h1> 
+<h1 align="center"><a href="http://www.swetha-sivasankararaj.com/">Swetha Sivasankararaj</a></h1>
  
 <img src="https://i.postimg.cc/SKG1vz8M/Beige-Black-Geometric-Technology-Linked-In-Banner.png"/>
 <h3 align="center">Aspiring Software Developer</h3>
