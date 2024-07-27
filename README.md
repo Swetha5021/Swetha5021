@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full-Stack and OpenCV projects**
 
-- 🌱 I’m currently learning **MERN Stack and DSA**
+- 🌱 I’m currently learning **Java FullStack Dev and DSA**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
