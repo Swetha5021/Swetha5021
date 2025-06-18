@@ -1,7 +1,7 @@
 <h1 align="center"><a href="http://www.swetha-sivasankararaj.com/">Swetha Sivasankararaj</a></h1>
 
 <img src="https://i.postimg.cc/0y33dhKR/Beige-Black-Geometric-Technology-Linked-In-Banner.jpg"/>
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
